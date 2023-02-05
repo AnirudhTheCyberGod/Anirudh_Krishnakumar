@@ -3,7 +3,7 @@
 <div>
 
 
-<iframe src="https://giphy.com/embed/115BJle6N2Av0A" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-115BJle6N2Av0A">via GIPHY</a></p>
+<a href="[URL_REDIRECT](https://giphy.com/embed/115BJle6N2Av0A)" target="blank"><img align="center" src="https://giphy.com/gifs/hacker-115BJle6N2Av0A" height="100" width="480" height="270"/></a>
 
 
 </div>

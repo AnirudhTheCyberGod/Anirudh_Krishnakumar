@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anirudh Krishnakumar</h1>
 <h3 align="center">A computer geek fascinated and passionate about Cyber space and its security</h3>
+<div>
 
+
+<iframe src="https://giphy.com/embed/115BJle6N2Av0A" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-115BJle6N2Av0A">via GIPHY</a></p>
+
+
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3cur1ty-r3s34rch3r&label=Profile%20views&color=0e75b6&style=flat" alt="s3cur1ty-r3s34rch3r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3cur1ty-r3s34rch3r" alt="s3cur1ty-r3s34rch3r" /></a> </p>

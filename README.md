@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Krishnakumar</h1>
 <h3 align="center">A computer geek fascinated and passionate about Cyber space and its security</h3>
-<div>
+<div style="text-align: center;">
+  
 <center><img src="https://media.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" alt="Lamp" width="800" height="600"></center>
 
 </div>

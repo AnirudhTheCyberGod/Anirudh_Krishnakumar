@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Krishnakumar</h1>
 <h3 align="center">A computer geek fascinated and passionate about Cyber space and its security</h3>
 <div>
-
-
-<a href="https://giphy.com/embed/115BJle6N2Av0A" target="blank"><img align="center" src="https://giphy.com/gifs/hacker-115BJle6N2Av0A" height="100" width="480" height="270"/></a>
-
+<img src="https://media.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" alt="Lamp" width="32" height="32">
 
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3cur1ty-r3s34rch3r&label=Profile%20views&color=0e75b6&style=flat" alt="s3cur1ty-r3s34rch3r" /> </p>

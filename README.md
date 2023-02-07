@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Krishnakumar</h1>
-<h3 align="center">A computer geek fascinated and passionate about Cyber space and its security</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+Cyber+Security+Researcher;Security+Software+Developer+%40+ISRO;UI+Designer;Machine+Learning+Models+Creator" alt="Typing SVG" /></a>
 <div style="text-align: center;">
   
 <img src="https://media.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" alt="Lamp" width="1000" height="500">

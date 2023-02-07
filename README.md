@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anirudh Krishnakumar</h1>
 <div style="text-align: center;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&height=55&lines=About+me+%3A);A+Cyber+Security+Researcher;Currently+Security+Software+Developer+%40+ISRO;UI+Designer;Machine+Learning+Models+Creator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=1000&height=55&lines=About+me+%3A);A+Cyber+Security+Researcher;Currently+Security+Software+Developer+%40+ISRO;UI+Designer;Machine+Learning+Models+Creator" alt="Typing SVG" /></a>
 
   
-<img src="https://media.tenor.com/ofYCY_OJQ1kAAAAd/hacker-hack.gif" alt="Lamp" width="1000" height="500">
-
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3cur1ty-r3s34rch3r&label=Profile%20views&color=0e75b6&style=flat" alt="s3cur1ty-r3s34rch3r" /> </p>
 

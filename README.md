@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anirudhkrishna012@gmail.com**
 
-- ⚡ Fun fact **Hacking for fun**
+- ⚡ Fun fact **Geek who hacks for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

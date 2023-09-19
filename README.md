@@ -11,15 +11,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3cur1ty-r3s34rch3r" alt="s3cur1ty-r3s34rch3r" /></a> </p>
 
-- 🔭 I’m currently working on **Secured Web GUI Development**
+- 🔭 I’m currently working as **Security Operations Engineer(Security Incident Response Team)**
 
-- 🌱 I’m currently learning **Penetesting , Reverse Engineering , Binary Exploitation , Cyber Forensics, Threat intelligence**
+- 🌱 I’m  learning **Penetesting , Blue Teaming , Incident Response ,Reverse Engineering , Binary Exploitation , Cyber Forensics, Threat intelligence**
 
-- 💬 Ask me about **Python , ReactJs, NodeJs , Computer networks, Cyber security, Cyber crime Investigation**
+- 💬 Ask me about **Python , ReactJs, NodeJs , Api, Computer networks, Cyber security, Cyber crime Investigation**
 
 - 📫 How to reach me **anirudhkrishna012@gmail.com**
 
-- ⚡ Fun fact **Geek who hacks for fun**
+- ⚡ Fun fact **Computer geek who likes to break each byte in a system**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
